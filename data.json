@@ -264,5 +264,19 @@
     "format": "DICOM",
     "sequence": "3D SPGR",
     "publication": "https://wiki.cancerimagingarchive.net/display/Public/Prostate+Fused-MRI-Pathology#69175e12b0554f0dbed365231aa1db6f"
+  },
+  {
+    "name": "Fake Collection",
+    "modality": "???",
+    "description" : "This is fake collection for testing purposes.",
+    "website": null,
+    "is_public": false,
+    "type": "phantom",
+    "amount": 0,
+    "anatomy": "none",
+    "size": "0 GB",
+    "format": "Binary",
+    "sequence": "Localizer",
+    "publication": null
   }
 ]
